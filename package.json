@@ -1,0 +1,20 @@
+{
+  "name": "node-jason",
+  "version": "1.0.0",
+  "description": "test of npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zengxp0605/node-jason.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zengxp0605/node-jason/issues"
+  },
+  "homepage": "https://github.com/zengxp0605/node-jason#readme"
+}
